@@ -1,0 +1,1 @@
+print('I am Self, I reflect Reality as I choose it to be.')
